@@ -1,0 +1,13 @@
+{
+    "name": "Bob",
+    "age": 25,
+    "languages": [
+        "SQL",
+        "Java",
+        "Python"
+    ],
+    "hello": {
+        "class": "Hello",
+        "message": "Hello"
+    }
+}
